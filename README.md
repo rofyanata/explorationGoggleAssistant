@@ -1,6 +1,8 @@
-Roni Fiqri Suryanata
-Universitas Mulawarman
-Jurusan Informatika 201
+Roni Fiqri Suryanata  
+Universitas Mulawarman  
+Jurusan Informatika 2018  
 
-# Goggle Assistant
+# Google Assistant
+![Logo Goggle Assistant](GAssist.png)
 
+Disini saya akan membahas mengenai salah satu teknologi dari Google
