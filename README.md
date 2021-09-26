@@ -1,2 +1,6 @@
-# explorationGoggleAssistant
-This is my exploration about 1 of Google Dev Technology
+Roni Fiqri Suryanata
+Universitas Mulawarman
+Jurusan Informatika 201
+
+# Goggle Assistant
+
